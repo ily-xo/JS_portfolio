@@ -1,4 +1,4 @@
-1. Javascript - number guessing game.
+Javascript - number guessing game.
 
 ######## MAIN FUNCTIONS TO RUN THE GAME ########
 
