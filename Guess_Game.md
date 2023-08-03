@@ -5,7 +5,7 @@
 Guess: player inputs a GUESS | game outputs "yes you got the number!" or "no, that isn't the number...would you like to use a lifeline?"
 
 
-## ****** LIFE LINE FUNCTIONS ****
+## LIFE LINE FUNCTIONS 
 
 Divide: "Is there a remainder when I divide by ____________"  | RETURN TRUE/FALSE
 
@@ -18,7 +18,7 @@ Greater Than: "Is the number greater than _________ " | RETURN TRUE/FALSE
 Less Than: "Is the number less than _______ " | RETURN TRUE/FALSE
 
 
-## ******** GAME PLAY *************
+## GAME PLAY 
 
 1. Randomizer chooses a random number for player to guess.
 
