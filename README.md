@@ -1,5 +1,5 @@
 # JS_portfolio
-Javascript - number guessing game.
+1. Javascript - number guessing game.
 
 ######## MAIN FUNCTIONS TO RUN THE GAME ########
 
@@ -23,9 +23,9 @@ Less Than: "Is the number less than _______ " | RETURN TRUE/FALSE
 
 1. Randomizer chooses a random number for player to guess.
 
-2. ALERT/PROMPT: GUESS THE NUMBER
+2. ALERT/PROMPT: GUESS THE NUMBER.
 
-3. Player guesses number (eg. 66)
+3. Player guesses number (eg. 66). 
 
 4. ALERT "NOPE, that's not it! Do you want to use a Life Line?  You can use... DIVIDE, HOW MANY DIGITS? BETWEEN, GREATER THAN, LESS THAN"  << text box for player to type their choice >>
 
