@@ -1,6 +1,5 @@
 # JS_portfolio
-Javascript
-Number guessing game.
+Javascript - number guessing game.
 
 ######## MAIN FUNCTIONS TO RUN THE GAME ########
 
